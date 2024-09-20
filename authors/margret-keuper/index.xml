@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Margret Keuper | eXCV Workshop at ECCV 2024</title>
+    <link>https://excv-workshop.github.io/authors/margret-keuper/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/margret-keuper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Margret Keuper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 eXCV Workshop Organizers</copyright><lastBuildDate>Tue, 10 Sep 2024 22:02:03 +0200</lastBuildDate>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Margret Keuper</title>
+      <link>https://excv-workshop.github.io/authors/margret-keuper/</link>
+    </image>
+    
+    <item>
+      <title>As large as it gets: Learning infinitely large Filters via Neural Implicit Functions in the Fourier Domain</title>
+      <link>https://excv-workshop.github.io/publication/as-large-as-it-gets-learning-infinitely-large-filters-via-neural-implicit-functions-in-the-fourier-domain/</link>
+      <pubDate>Tue, 10 Sep 2024 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/as-large-as-it-gets-learning-infinitely-large-filters-via-neural-implicit-functions-in-the-fourier-domain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
